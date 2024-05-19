@@ -1,0 +1,23 @@
+Name: Dissanayake D M T V
+ID: IT22003546
+Group: SE/OOP/2023/S2/MLB/WD/G242
+
+Function: Quotation
+	  Login
+
+JSP: 1) AdminQuotationDelete.jsp
+     2) AdminQuotationUpdate.jsp
+     3) AdminQuotationView.jsp
+     4) ClientQuotationCreate.jsp
+     5) ClientQuotationDelete.jsp
+     6) ClientQuotationUpdate.jsp
+     7) ClientQuotationView.jsp
+     8) Login.jsp
+
+Package: Quotation
+	 UserLogin
+
+Required to login as the Admin to access following jsps.
+	1) AdminQuotationDelete.jsp
+	2) AdminQuotationUpdate.jsp
+	3) AdminQuotationView.jsp
